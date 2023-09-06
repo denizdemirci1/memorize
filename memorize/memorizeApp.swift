@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct memorizeApp: App {
+struct MemorizeApp: App {
     private let game = EmojiMemoryGame()
     
     var body: some Scene {
